@@ -1,5 +1,5 @@
 import 'dart:io';
-
+// Rizky Firman Nanda
 void main() {
   try {
     stdout.write('Masukkan nama kamu : ');
